@@ -1,0 +1,11 @@
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab9_Refactor_Using_Lists\Lab9_Refactor_Using_Lists\bin\Debug\netcoreapp3.1\Lab9_Refactor_Using_Lists.exe
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab9_Refactor_Using_Lists\Lab9_Refactor_Using_Lists\bin\Debug\netcoreapp3.1\Lab9_Refactor_Using_Lists.deps.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab9_Refactor_Using_Lists\Lab9_Refactor_Using_Lists\bin\Debug\netcoreapp3.1\Lab9_Refactor_Using_Lists.runtimeconfig.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab9_Refactor_Using_Lists\Lab9_Refactor_Using_Lists\bin\Debug\netcoreapp3.1\Lab9_Refactor_Using_Lists.runtimeconfig.dev.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab9_Refactor_Using_Lists\Lab9_Refactor_Using_Lists\bin\Debug\netcoreapp3.1\Lab9_Refactor_Using_Lists.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab9_Refactor_Using_Lists\Lab9_Refactor_Using_Lists\bin\Debug\netcoreapp3.1\Lab9_Refactor_Using_Lists.pdb
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab9_Refactor_Using_Lists\Lab9_Refactor_Using_Lists\obj\Debug\netcoreapp3.1\Lab9_Refactor_Using_Lists.csprojAssemblyReference.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab9_Refactor_Using_Lists\Lab9_Refactor_Using_Lists\obj\Debug\netcoreapp3.1\Lab9_Refactor_Using_Lists.AssemblyInfoInputs.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab9_Refactor_Using_Lists\Lab9_Refactor_Using_Lists\obj\Debug\netcoreapp3.1\Lab9_Refactor_Using_Lists.AssemblyInfo.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab9_Refactor_Using_Lists\Lab9_Refactor_Using_Lists\obj\Debug\netcoreapp3.1\Lab9_Refactor_Using_Lists.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab9_Refactor_Using_Lists\Lab9_Refactor_Using_Lists\obj\Debug\netcoreapp3.1\Lab9_Refactor_Using_Lists.pdb
